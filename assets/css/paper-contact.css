@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.center-main{
+    display: flex;
+
+}
+
+.center-p1{
+    color: #9d2f6e;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 50px;
+    margin-left: 310px;
+}
+
+.center-h1{
+    margin-left: 310px;
+    margin-bottom: 28px;
+    color: #364152;
+    margin-top: 18px;
+    font-size: 37px;
+}
+
+.center-p2{
+    color: #475467;
+    margin-left: 310px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.center-img1{
+    width: 800px;
+    height: 400px;
+
+}
+
+.center-btn1{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:130px;
+    height: 28px;
+    margin-left: 94px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    border-radius: 24px;
+    margin-top: 11px;
+}
+
+.center-btn2{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:130px;
+    height: 28px;
+    margin-left: 4px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 3px;
+    margin-top: 11px;
+}
+
+.center-btn3{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:100px;
+    height: 28px;
+    margin-left: 4px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 3px;
+    margin-top: 11px;
+}
+
+.center-btn4{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:100px;
+    height: 28px;
+    margin-left: 4px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 3px;
+    margin-top: 11px;
+}
+
+.center-btn5{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:100px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn6{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:140px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn7{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:120px;
+    height: 30px;
+    margin-left: 94px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn8{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:140px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn9{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:130px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn10{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:100px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn11{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:150px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
+
+.center-btn12{
+    color: #9d2f6e;
+    background-color: #fbf4f9;
+    border: none;
+    width:160px;
+    height: 34px;
+    margin-left: 94px;
+    font-size: 13px;
+    border-radius: 24px;
+    padding-bottom: 5px;
+    margin-top: 12px;
+}
